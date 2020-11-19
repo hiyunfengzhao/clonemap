@@ -1,3 +1,4 @@
+import {api_key} from './config.js';
 mapboxgl.accessToken = api_key;
 
 // default location
